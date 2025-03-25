@@ -1,7 +1,7 @@
 # UART Communication Testing App
 
 ## Overview
-The **UART Test App** is a PyQt-based application that allows users to test and debug UART communication between two devices. It provides a simple and interactive GUI to configure serial communication parameters, send and receive data, and console-log errors. This tool is useful for embedded systems engineers, hardware developers, and anyone working with serial communication.
+The **UART Test App** is a PyQt-based application that allows users to test and debug UART communication between two devices. It provides a simple and interactive GUI to configure serial communication parameters, send and receive data, and console-log errors. This tool is useful for embedded systems engineers, hardware developers, and anyone working with serial communication. 
 
 ## Features
 - **Customizable Serial Configuration:** Set baud rate, parity, data bits, and stop bits.
