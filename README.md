@@ -63,4 +63,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 
 ## Technical Blog Article
-I have written a detailed technical blog of why I chose to do this project and the thought process that went into building the app. You can find it here on Medium :) !! Feel free to check it out and leave me a like <3
+I have written a detailed technical blog of why I chose to do this project and the thought process that went into building the app. You can find it here on Medium :) !! Feel free to check it out !!
