@@ -59,8 +59,8 @@ Contributions are welcome! :) To contribute:
 5. Open a pull request.
 
 ## License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** 
 
 
 ## Technical Blog Article
-I have written a detailed technical blog of why I chose to do this project and the thought process that went into building the app. You can find it here on Medium :) !! Feel free to check it out !!
+I have written a detailed technical blog of why I chose to do this project and the thought process that went into building the app. You can find it [here](https://medium.com/@saumyamts/serial-communication-101-building-a-custom-uart-debugging-tool-f6fe31639484) on Medium :) !! Feel free to check it out !!
